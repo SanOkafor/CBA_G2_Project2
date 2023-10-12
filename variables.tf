@@ -11,7 +11,7 @@ variable "azs" {
 }
 
 variable "ami" {
-  default = "ami-038d76c4d28805c09" #(ubuntu ami)
+  default = "ami-0eb260c4d5475b901" #(ubuntu ami)
 }
 
 
