@@ -1,7 +1,7 @@
 locals {
   inst_type     = "t2.micro"
-  key           = "cba-web-KP"
-  key_pair_path = "/home/adeola/cba-web-KP.pem"
+  key           = "myproject_keypair"
+  key_pair_path = "/home/sandra/myproject_keypair.pem"
 }
 
 # EC2 instance configuration
